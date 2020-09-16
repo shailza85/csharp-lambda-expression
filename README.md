@@ -2,9 +2,7 @@ How to use Lambda expression with Aggregate functions such as Sum(), Count(), Mi
 
 In the tutorial you will see the use of Count() function with and without Lambda expression. 
 
-To view full tutorial please visit Google Doc "C# Lambda Expression and Aggregates Tutorial"  link: :
-
-https://docs.google.com/document/d/1wOo8Z8TVE3SXEBsPfa7MP74na0-TfvqRhLiruGES8Gk/edit?usp=sharing
+To view full tutorial please visit: [C# Lambda Expression and Aggregates Tutorial](https://docs.google.com/document/d/1wOo8Z8TVE3SXEBsPfa7MP74na0-TfvqRhLiruGES8Gk/edit?usp=sharing)
 
 Citations:
 
