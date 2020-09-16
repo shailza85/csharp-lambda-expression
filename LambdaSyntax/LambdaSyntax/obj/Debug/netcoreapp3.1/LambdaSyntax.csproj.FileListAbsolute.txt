@@ -1,0 +1,13 @@
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\bin\Debug\netcoreapp3.1\LambdaSyntax.exe
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\bin\Debug\netcoreapp3.1\LambdaSyntax.deps.json
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\bin\Debug\netcoreapp3.1\LambdaSyntax.runtimeconfig.json
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\bin\Debug\netcoreapp3.1\LambdaSyntax.runtimeconfig.dev.json
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\bin\Debug\netcoreapp3.1\LambdaSyntax.dll
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\bin\Debug\netcoreapp3.1\LambdaSyntax.pdb
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\obj\Debug\netcoreapp3.1\LambdaSyntax.csprojAssemblyReference.cache
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\obj\Debug\netcoreapp3.1\LambdaSyntax.AssemblyInfoInputs.cache
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\obj\Debug\netcoreapp3.1\LambdaSyntax.AssemblyInfo.cs
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\obj\Debug\netcoreapp3.1\LambdaSyntax.csproj.CoreCompileInputs.cache
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\obj\Debug\netcoreapp3.1\LambdaSyntax.dll
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\obj\Debug\netcoreapp3.1\LambdaSyntax.pdb
+C:\Users\atul\source\repos\how-to-write-effective-documentation-shailza85\LambdaSyntax\LambdaSyntax\obj\Debug\netcoreapp3.1\LambdaSyntax.genruntimeconfig.cache
