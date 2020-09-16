@@ -33,13 +33,17 @@ namespace LambdaSyntax
             Console.WriteLine("Even Elements: {0}", evenElements);
 
             // Sum() function returns Sum of the elements in the list.
+
             // @ Link https://www.tutorialsteacher.com/linq/linq-aggregation-operator-sum
 
             IList<int> intListSum = new List<int>() { 10, 21, 30, 45, 50, 87 };
 
+            // Sum of all numbers in the list.
             var total = intListSum.Sum();
 
             Console.WriteLine("Sum: {0}", total);
+
+            // Sum of all even numbers in the list.
 
             var sumOfEvenElements = intListSum.Sum(i => {
                 if (i % 2 == 0)
@@ -48,17 +52,19 @@ namespace LambdaSyntax
                 return 0;
             });
 
-            Console.WriteLine("Sum of Even Element: {0}", sumOfEvenElements);
+            Console.WriteLine("Sum of Even Elements: {0}", sumOfEvenElements);
 
             // Max() function returns Largest number in the list.
             // @ Link https://www.tutorialsteacher.com/linq/linq-aggregation-operator-max
 
             IList<int> intListMax = new List<int>() { 10, 21, 30, 45, 50, 87 };
 
+            // Largest number in the list.
             var largest = intListMax.Max();
 
             Console.WriteLine("Largest Element: {0}", largest);
 
+            // Largest even number in the list.
             var largestEvenElements = intListMax.Max(i => {
                 if (i % 2 == 0)
                     return i;
@@ -72,10 +78,12 @@ namespace LambdaSyntax
 
             IList<int> intListMin = new List<int>() { 9,10,13,15};
 
+            // Smallest number in the list.
             var smallest = intListMin.Min();
 
             Console.WriteLine("Smallest Element: {0}", smallest);
 
+            // Smallest odd number in the list.
             var smallestOddElements = intListMin.Min(i =>
             {
                 if (i % 2 != 0)
